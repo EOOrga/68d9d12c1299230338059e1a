@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: FOYER RURAL ST BONNET DE TRONC
+app idea: An operations-focused app offering patient records, container tracking, equipment checkout, and revenue analytics to streamline daily business tasks.
+company name: FOYER RURAL ST BONNET DE TRONCAIS
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder

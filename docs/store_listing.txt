@@ -1,0 +1,13 @@
+App name
+FOYER RURAL ST BONNET DE TRONC
+
+Short description
+Run local records, assets, checkouts, and revenue tracking from one offline workspace.
+
+Full description
+FOYER RURAL ST BONNET DE TRONC helps staff and volunteers keep daily operations organized without accounts, cloud sync, or external services. The app brings patient records, container tracking, equipment checkout, and revenue summaries into a focused Android workflow.
+
+Teams can review priority records, monitor container capacity, update checkout status, add revenue entries, and keep privacy notes visible during routine work. All records and preferences are stored locally on the device.
+
+Category
+Business
