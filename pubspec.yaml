@@ -1,4 +1,4 @@
-name: foyer_rural_ops
+name: brizio
 description: Offline operations workspace for Foyer Rural St Bonnet de Troncais.
 publish_to: 'none'
 
@@ -28,4 +28,6 @@ flutter:
 flutter_launcher_icons:
   android: true
   image_path: docs/icon.png
+  adaptive_icon_foreground: docs/icon.png
+  adaptive_icon_background: "#FF1FF8"
   min_sdk_android: 21
