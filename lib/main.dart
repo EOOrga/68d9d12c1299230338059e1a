@@ -25,7 +25,7 @@ class FoyerApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const seed = Color(0xff3a627f);
+    const seed = Color(0xFF261FFF);
     final scheme =
         ColorScheme.fromSeed(
           seedColor: seed,
@@ -249,7 +249,7 @@ class OverviewPage extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             SectionHeader(
-              title: 'Today focus',
+              title: 'FOYER RURAL ST BONNET DE TRONC',
               action: '${store.attentionCount} need review',
             ),
             const SizedBox(height: 8),
