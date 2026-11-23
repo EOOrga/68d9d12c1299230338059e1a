@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "fr.foyerrural.stbonnettronc"
+        applicationId = "fr.foyerrural.lakhedmen"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
